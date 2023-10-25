@@ -3,7 +3,7 @@ A mini game, written in shell script :)
 This is a simple cmd line based game, where you can play it in your terminal
 
 how to run?
-navigate to the folder where you've saved it then
+navigate to the folder where you've cloned it then
   bash eldenringIm.sh
   OR
   ./eldenringIm.sh
